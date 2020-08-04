@@ -5,5 +5,7 @@ For 2D maps animation is used to visualize dependence on the control parameter. 
 Python version:  3.7.4
 # Dependencies
 imageio:         2.6.0
+
 numpy:           1.16.5
+
 matplotlib:      3.1.1
