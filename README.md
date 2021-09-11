@@ -9,8 +9,8 @@ numpy (1.16.5) <br/>
 matplotlib (3.1.1)
 
 # Examples
-![alt text](https://github.com/ZeroFourEightTwelve24/iterMapChaosGraphing/blob/master/some_output/movie_1.gif?raw=true)
-![alt text](https://github.com/ZeroFourEightTwelve24/iterMapChaosGraphing/blob/master/some_output/Figure_9a.png?raw=true)
-![alt text](https://github.com/ZeroFourEightTwelve24/iterMapChaosGraphing/blob/master/some_output/Figure_9b.png?raw=true)
-![alt text](https://github.com/ZeroFourEightTwelve24/iterMapChaosGraphing/blob/master/some_output/Figure_0.png?raw=true)
-![alt text](https://github.com/ZeroFourEightTwelve24/iterMapChaosGraphing/blob/master/some_output/Figure_1.png?raw=true)
+![alt text](https://github.com/EQUINOX24/iterMapChaosGraphing/blob/master/some_output/movie_1.gif?raw=true)
+![alt text](https://github.com/EQUINOX24/iterMapChaosGraphing/blob/master/some_output/Figure_9a.png?raw=true)
+![alt text](https://github.com/EQUINOX24/iterMapChaosGraphing/blob/master/some_output/Figure_9b.png?raw=true)
+![alt text](https://github.com/EQUINOX24/iterMapChaosGraphing/blob/master/some_output/Figure_0.png?raw=true)
+![alt text](https://github.com/EQUINOX24/iterMapChaosGraphing/blob/master/some_output/Figure_1.png?raw=true)
